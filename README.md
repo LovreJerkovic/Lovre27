@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lovre Jerković, a 20 year old student at FER,Zagreb and I'm studying computing.
+- 👋 Hi, I’m Lovre Jerković, a 24 year old student at FER,Zagreb and I'm studying computing.
 - 👀 I’m interested in programming in general, lately in fullstack web development.  
 - 🌱 I’m currently learning javascript and its possibilities alongside html and css.
 - 💞️ I’m looking for some project ideas or small job offers. 
